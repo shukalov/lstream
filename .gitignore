@@ -1,0 +1,11 @@
+venv
+tmp/
+.idea/
+*.pyc
+*.pyo
+*.pid
+*.log
+*.log.*
+.mypy_cache
+.vscode/
+.pytest_cache
